@@ -22,6 +22,6 @@
  * [JavaScript для тестировщиков](https://drive.google.com/file/d/1GCXNqTgQvgvNjmFMFwQLjNAeQsshh772/view?usp=sharing)
  * [Автоматизация тестирования веб-интерфейсов](https://drive.google.com/file/d/1V_Tcfi1BHGAQM0JoTQefIeKN55ghHHlF/view?usp=sharing)
  * [Тестирование мобильных приложений](https://drive.google.com/file/d/18SYMV3OAB7dKDtknadQFCKM4tjD4ePyS/view?usp=sharing)
- * [Тестирование безопасности (изучаю)]()
+ * [Тестирование безопасности](https://drive.google.com/file/d/1Sd-C3uNzYERuH3TEhtrEHq0hZaYkb4id/view?usp=sharing)
  * [Основы Python (изучаю)]()
  * [HTML и CSS для тестировщиков (изучаю)]()
